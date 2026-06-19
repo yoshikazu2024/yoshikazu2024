@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aero Smith</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 60px auto;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 42px;
+    }
+    a {
+      color: #3366cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Aero Smith</h1>
+
+  <p>
+    I am interested in computational neuroscience, dynamical systems,
+    and mathematical modeling.
+  </p>
+
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Working memory</li>
+    <li>Mixed selectivity</li>
+    <li>Neural population dynamics</li>
+    <li>RNN modeling</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>RNN models for working memory</li>
+    <li>Mixed selectivity and manifold geometry</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>
+    GitHub: <a href="https://github.com/你的用户名">你的用户名</a>
+  </p>
+</body>
+</html>
